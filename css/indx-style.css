@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+.bac{
+    background-color: #F5F5F5;
+    background-image: url(../b6127bae365d276278c21b071e2ae22d\ \(1\).jpg);
+height: 100vh;
+background-position: center;
+background-size:contain;
+background-repeat:no-repeat ;
+}
+header h1 {
+    font-size:80px;
+    padding-top: 150px;
+}
+header p{
+    font-size:30px ;
+}
+header button{
+    border-radius: 30px;
+    background-color: bisque;
+}
+header button:hover{
+    background-color: #F5F5F5;
+    transition: all 1s;
+}
+.quo {
+    width: 70%;
+ margin: auto;
+}
